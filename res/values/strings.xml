@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPSLocator</string>
+    
+    <string name="caption_title">Your Location Is</string>
+    <string name="caption_latitude">Latitude:</string>
+    <string name="caption_longitude">Longitude:</string>
+    <string name="caption_refresh">  Refresh  </string>
+    <string name="caption_provider">Provider:</string>
+    <string name="caption_finish">Exit</string>
+    
+    <string name="blank"></string>
+</resources>
